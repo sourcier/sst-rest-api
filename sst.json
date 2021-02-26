@@ -1,0 +1,6 @@
+{
+  "name": "sst-rest-api",
+  "stage": "dev",
+  "region": "eu-west-2",
+  "lint": true
+}
